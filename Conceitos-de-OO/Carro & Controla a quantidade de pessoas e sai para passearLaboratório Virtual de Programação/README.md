@@ -22,10 +22,10 @@ Essa atividade se propõe a implementar um carro ecológico que pode passear pel
 
 ## Shel
 #__case inicializar
-# O comando "$enter" insere uma pessoa no carro.
-# O comando "$leave" retira uma pessoa do carro".
-# O comando "$show" mostra o estado do carro.
-# Deve ser emitido um erro caso não seja possível inserir ou retirar uma pessoa.
+ O comando "$enter" insere uma pessoa no carro.
+ O comando "$leave" retira uma pessoa do carro".
+ O comando "$show" mostra o estado do carro.
+ Deve ser emitido um erro caso não seja possível inserir ou retirar uma pessoa.
 $show
 
 pass: 0, gas: 0, km: 0
